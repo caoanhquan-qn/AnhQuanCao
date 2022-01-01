@@ -107,3 +107,27 @@ In this project, we build an landing page of Bankist website.
 #### Tech Stack
 
 HTML, CSS and Javascript
+
+##
+
+- [Youtube clone](https://videos-hooks-caoanhquan-qn.vercel.app/)
+
+#### About this project
+
+Build a Youtube clone with React JS.
+
+#### Tech Stack
+
+React JS
+
+##
+
+- [Search photos](https://search-photos-caoanhquan-qn.vercel.app/)
+
+#### About this project
+
+Build a search photos page with React JS (fetch unsplash API).
+
+#### Tech Stack
+
+React JS
